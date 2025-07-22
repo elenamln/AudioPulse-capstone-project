@@ -1,6 +1,6 @@
 # 🎧 AudioPulse Capstone Project 🎧
 
-Welcome to the **AudioPulse Capstone Project** — a data analysis pipeline designed to collect, process, and analyze YouTube audio content to uncover audience trends and engagement patterns.
+Welcome to the **AudioPulse Capstone Project**: a data analysis pipeline designed to collect, process, and analyze YouTube audio content to uncover audience trends and engagement patterns.
 
 ---
 
