@@ -31,7 +31,7 @@ This project aims to build the core data engineering pipeline that powers resear
   Logs every download event, including successes and errors, to monitor the pipeline’s performance and troubleshoot issues.
 
 - **Analytical Insights:**  
-  Performs exploratory data analysis to identify trends such as:
+  Performs exploratory data analysis with Spark and Pandas to identify trends such as:
   - Top-performing audio tracks by views.
   - Average audio length.
   - Correlations between likes and views.
