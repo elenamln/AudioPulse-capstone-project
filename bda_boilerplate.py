@@ -68,22 +68,3 @@ def download_youtube_audio_with_metadata(url: str):
     except Exception as e:
         print(f"❌ Failed to download: {url}\n   Error: {e}")
         
-"""
-if __name__ == "__main__":
-    youtube_urls = [
-        "https://www.youtube.com/watch?v=xxdCKPjaeiU",
-        "https://www.youtube.com/watch?v=uxfLPbn9b-k",
-        "https://www.youtube.com/watch?v=Htzamn0cl78",
-        "https://www.youtube.com/watch?v=UtpBjLiMlWI",
-        "https://www.youtube.com/watch?v=7CVfTd-_qbc",
-        "https://www.youtube.com/watch?v=KFn5QN6Y8OY",
-        "https://www.youtube.com/watch?v=nbelrZHSCjU",
-        "https://www.youtube.com/watch?v=E0Hmnixke2g",
-        "https://www.youtube.com/watch?v=w5PuF7n1KJ4",
-        "https://www.youtube.com/watch?v=UAEqdo0Dn-k",
-        "https://www.youtube.com/watch?v=FPvvEgSqj_0",
-    ]
-
-    for url in youtube_urls:
-        download_youtube_audio_with_metadata(url)
-"""
