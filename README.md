@@ -6,7 +6,7 @@ Welcome to the **AudioPulse Capstone Project**: a data analysis pipeline designe
 
 ## Project Overview
 
-AudioPulse is a fast-growing marketing startup focused on analyzing online audio content. This project aims to build the core data engineering pipeline that powers research and insights based on YouTube audio data — think of it as a mini Spotify but focused entirely on generating meaningful analytics.
+This project aims to build the core data engineering pipeline that powers research and insights based on YouTube audio data.
 
 ---
 
